@@ -1,0 +1,19 @@
+{
+  "name": "backend-qrly",
+  "version": "1.0.0",
+  "main": "server1234.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server1234.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+     "express": "^4.18.1",
+    "formik": "^2.2.9",
+    "node-url-shortener": "^2.0.3",
+    "qrcode": "^1.5.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}

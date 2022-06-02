@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>  
+
+<h1>Hello World!</h1>
+
+<h2>I am formatted with a linked style sheet.</h2>
+  
+<p>Me too!</p>
+<img  id="img" href="" src="data:image/png;base64,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" >
+<a href="#" onclick="prepHref(this)" download>Click here to download image</a> 
+<script>
+function prepHref(linkElement) { 
+   
+    var myImage = document.getElementById('img');
+    linkElement.href = myImage.src; 
+} </script>
+
+</body>
+</html>
+function myFunction() {
+  /* Get the text field */
+  var copyText = document.getElementById("myInput");
+
+  /* Select the text field */
+  copyText.select();
+  copyText.setSelectionRange(0, 99999); /* For mobile devices */
+
+  /* Copy the text inside the text field */
+  navigator.clipboard.writeText(copyText.value);
+  
+  /* Alert the copied text */
+  alert("Copied the text: " + copyText.value);
+}

@@ -1,0 +1,9 @@
+https://qrly.herokuapp.com/
+
+Helmet Ratelimiter etc libraries  not used 
+used json file for storing  we can use database too 
+to avoid  storage leak or full    would store link( short url) only if copied is presssed  
+  It works as soon as new text is added 
+
+![working as soon as url is valid ][2]{:target='_blank'}
+  It works as soon  valid link is entered 
